@@ -1,0 +1,159 @@
+{
+  "name": "oledify",
+  "description": "It’s pretty much black but cutties",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "i_0",
+      "id": "273289274361774081"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#fc3468",
+      "#060607"
+    ],
+    "HEADER_SECONDARY": [
+      "#bae1ff",
+      "#4f5660"
+    ],
+    "TEXT_NORMAL": [
+      "#f3f6f4",
+      "#2e3338"
+    ],
+    "TEXT_MUTED": [
+      "#ffb3ba",
+      "#747f8d"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#ffffff",
+      "#4f5660"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#f3f6f4",
+      "#2e3338"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#fc3468",
+      "#060607"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#cbc0b4",
+      "#c7ccd1"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#000000",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#000000",
+      "#f2f3f5"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#000000",
+      "#ebedef"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#000000",
+      "#e3e5e8"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#f9d62e",
+      "#000000"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000",
+      "#f8f9f9"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#000000",
+      "#ffffff"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#000000",
+      "#ffffff"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "hsla(214, 9.9%, 50.4%, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "hsla(214, 9.9%, 50.4%, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "hsla(214, 9.9%, 50.4%, 0.24)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "hsla(240, 7.7%, 2.5%, 0.08)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#2a1858",
+      "hsla(217, 7.6%, 33.5%, 0.3)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#2a1858",
+      "#ffffba"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#f2f2f2"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#111111",
+      "#ebedef"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#d9d9db",
+      "#000000"
+    ],
+    "TEXT_LINK": [
+      "#9fc5e8",
+      "#000000"
+    ],
+    "KEYBOARD": [
+      "#000000",
+      "#FFFFFF"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#000000",
+    "PRIMARY_DARK_100": "#FFFFFF",
+    "PRIMARY_DARK_200": "#FFFFFF",
+    "PRIMARY_DARK_300": "#fefffe",
+    "PRIMARY_DARK_360": "#fcfdfc",
+    "PRIMARY_DARK_400": "#938cc9",
+    "PRIMARY_DARK_500": "#a382be",
+    "PRIMARY_DARK_600": "#000000",
+    "PRIMARY_DARK_630": "#000000",
+    "PRIMARY_DARK_700": "#000000",
+    "PRIMARY_DARK_800": "#000000",
+    "BRAND_NEW": "#f9d62e",
+    "STATUS_RED": "#768081",
+    "STATUS_GREEN_600": "#87a2de",
+    "STATUS_YELLOW": "#768081"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#000000"
+  },
+  "background": {
+    "blur": 0,
+    "url": "https://www.solidbackgrounds.com/images/1080x1920/1080x1920-black-solid-color-background.jpg",
+    "alpha": 1
+  },
+  "color": "#cda88f"
+}
