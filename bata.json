@@ -1,0 +1,157 @@
+{
+  "name": "bata",
+  "description": "bata on the darkness",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "i_0",
+      "id": "273289274361774081"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#a62d59",
+      "#060607"
+    ],
+    "HEADER_SECONDARY": [
+      "#B6B6B6",
+      "#4f5660"
+    ],
+    "TEXT_NORMAL": [
+      "#f3f6f4",
+      "#2e3338"
+    ],
+    "TEXT_MUTED": [
+      "#a62d59",
+      "#747f8d"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#a62d59",
+      "#4f5660"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#dcddde",
+      "#2e3338"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#a62d59",
+      "#060607"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#697eab",
+      "#c7ccd1"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#000000",
+      "#ffffff"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#000000",
+      "#f2f3f5"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#e0e0e0",
+      "#ebedef"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#000000",
+      "#e3e5e8"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#a62d59",
+      "#747f8d"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#a62d59 ",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#a62d59 ",
+      "#f8f9f9"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#a62d59 ",
+      "#ffffff"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#a62d59 ",
+      "#ffffff"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(255, 255, 255, 0.02)",
+      "hsla(214, 9.9%, 50.4%, 0.08)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(255, 255, 255, 0.03)",
+      "hsla(214, 9.9%, 50.4%, 0.16)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(255, 255, 255, 0.04)",
+      "hsla(214, 9.9%, 50.4%, 0.24)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "hsla(240, 7.7%, 2.5%, 0.08)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#2a1858",
+      "hsla(217, 7.6%, 33.5%, 0.3)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#2a1858",
+      "#cccccc"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.1)",
+      "#f2f2f2"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#111111",
+      "#ebedef"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#b6b6b6",
+      "#6a7480"
+    ],
+    "TEXT_LINK": [
+      "#a62d59",
+      "#000000"
+    ],
+    "KEYBOARD": [
+      "#181818",
+      "#FFFFFF"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#000000",
+    "PRIMARY_DARK_100": "#FFFFFF",
+    "PRIMARY_DARK_200": "#FFFFFF",
+    "PRIMARY_DARK_300": "#B6B6B6",
+    "PRIMARY_DARK_360": "#C8C8C8",
+    "PRIMARY_DARK_400": "#a62d59",
+    "PRIMARY_DARK_500": "#a62d59",
+    "PRIMARY_DARK_600": "#000000",
+    "PRIMARY_DARK_630": "#000000",
+    "PRIMARY_DARK_700": "#000000",
+    "PRIMARY_DARK_800": "#000000",
+    "BRAND_NEW": "#a62d59",
+    "STATUS_RED": "#ffffff",
+    "STATUS_GREEN_600": "#a62d59"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#000000"
+  },
+  "background": {
+    "blur": 0.1,
+    "url": "",
+    "alpha": 1.0
+  }
+}
